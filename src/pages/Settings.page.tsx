@@ -1,6 +1,6 @@
 import Shell from "@/components/Shell/Shell";
 
-export default function HomePage() {
+export default function SettingsPage() {
     return (
         <Shell>
             <></>
